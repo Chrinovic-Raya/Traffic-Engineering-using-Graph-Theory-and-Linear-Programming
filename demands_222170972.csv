@@ -1,0 +1,6 @@
+commodity,source,destination,demand_Mbps
+1,3,7,128
+2,4,9,192
+3,5,11,256
+4,6,13,320
+5,7,1,384
